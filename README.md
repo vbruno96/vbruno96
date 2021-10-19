@@ -1,16 +1,31 @@
-### Hi there 👋
+### Bem vindo padawan! 👋
 
-<!--
-**vbruno96/vbruno96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="180em" style="margin:0 10px" src="https://github-readme-stats.vercel.app/api?username=vbruno96&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="margin:0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbruno96&layout=compact&langs_count=10&theme=midnight-purple"/>
+  
+</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="display:flex; justify-content:space-around; align-items:center;">
+  <img align="left" alt="Dart Vader Gif" style="border-radius:10px" height="180em" src="https://cdn.discordapp.com/attachments/408362102785310721/900108304456486942/dartvader.gif">
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/bruno-vinicius96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px" width="120em" height="38em">
+    </a>
+    <a href="mailto:vbruno96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 10px" width="120em">
+    </a>
+  </div>
+
+  <img align="right" alt="Dart Vader Gif" style="border-radius:10px" width="180em" height="180em" src="https://cdn.discordapp.com/attachments/408362102785310721/900111639997730816/stark.gif">
+</div>
+
+##
+
+<div align="center">
+
+![Snake animation](https://github.com/vbruno96/vbruno96/blob/output/github-contribuition-grid-snake.svg)
+
+</div>
+
