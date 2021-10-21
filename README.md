@@ -1,8 +1,8 @@
 ### Bem vindo padawan! 👋
 
 <div align="center">
-  <img height="180em" style="margin:0 10px" src="https://github-readme-stats.vercel.app/api?username=vbruno96&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="margin:0 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbruno96&layout=compact&langs_count=10&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vbruno96&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbruno96&layout=compact&langs_count=10&theme=midnight-purple"/>
   
 </div>
 
@@ -17,7 +17,7 @@
 <div align="center">
   <img align="left" alt="Dart Vader Gif" height="180em" src="https://cdn.discordapp.com/attachments/408362102785310721/900108304456486942/dartvader.gif">
 
-  <img align="right" alt="Dart Vader Gif" width="180em" height="180em" src="https://cdn.discordapp.com/attachments/408362102785310721/900111639997730816/stark.gif">
+  <img align="right" alt="Tony Stark Gif" width="180em" height="180em" src="https://cdn.discordapp.com/attachments/408362102785310721/900111639997730816/stark.gif">
 </div>
 
 
