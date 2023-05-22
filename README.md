@@ -31,5 +31,6 @@
 
 ## Social 🔗
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vinicius96/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vbruno96@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1296F1&height=140&section=footer" alt="Footer wave image" />
