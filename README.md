@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=1296F1&height=140&section=header" alt="Header wave image" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1296F1&height=140&section=header" alt="Header wave image" />
 <h1>Olá, sou Bruno Vinícius <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" alt="👍" width="32" height="32" /></h1>
 
 - 🔥 Desenvolvedor Frontend Júnior
 - 🔭 Atualmente buscando uma oportunidade
-- 📃 Além de tecnologia sou apaixonado por automobilismo e aviação e games
+- 📃 Além de tecnologia sou apaixonado por automobilismo, aviação e games
 - 💬 Me pergunte sobre React, React Native, Node.JS, HTML, CSS, SQL
-- ⚡ Fato engraçado, sou canhoto
+- ⚡ Fato curioso, sou canhoto
 
 ## Techs 🛠️
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,4 +32,4 @@
 ## Social 🔗
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-vinicius96/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&theme=1296F1&height=140&section=footer" alt="Footer wave image" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1296F1&height=140&section=footer" alt="Footer wave image" />
