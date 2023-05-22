@@ -1,10 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1296F1&height=140&section=header" alt="Header wave image" />
 <h1>Olá, sou Bruno Vinícius <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270c_1f3fd/512.gif" alt="👍" width="32" height="32" /></h1>
 
+[![USA Flag](https://flagcdn.com/20x15/us.png)](https://github.com/vbruno96/vbruno96/blob/main/README-en.md#hello-im-bruno-vinícius-)
+
+---
+
 - 🔥 Desenvolvedor Frontend Júnior
 - 🔭 Atualmente buscando uma oportunidade
 - 📃 Além de tecnologia sou apaixonado por automobilismo, aviação e games
-- 💬 Me pergunte sobre React, React Native, Node.JS, HTML, CSS, SQL
+- 💬 Me pergunte sobre ***React, React Native, Node.JS, HTML, CSS, SQL***
 - ⚡ Fato curioso, sou canhoto
 
 ## Techs 🛠️
