@@ -5,7 +5,7 @@
 
 ---
 
-- 🔥 Desenvolvedor Frontend Júnior
+- 🔥 Desenvolvedor Frontend
 - 🔭 Atualmente buscando uma oportunidade
 - 📃 Além de tecnologia sou apaixonado por automobilismo, aviação e games
 - 💬 Me pergunte sobre ***React, React Native, Node.JS, HTML, CSS, SQL***
