@@ -5,7 +5,7 @@
 
 ---
 
-- 🔥 Frontend Developer Jr
+- 🔥 Frontend Developer
 - 🔭 I'm currently search for oportunits
 - 📃 In addition to technology, I am passionate with motorsport, aviation and games.
 - 💬 Ask me about **React, React Native, Node.JS, HTML, CSS, SQL**
